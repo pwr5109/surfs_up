@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This Analysis looks into the temperature trends before opening a surf shop and to find out if a surf and ice-cream shop business is sustainable year round. 
-
-The temperature data to be analyzed will be data from the months of June and December in Oahu.
+This Analysis looks into the temperature trends before opening a surf shop and to find out if a surf and ice-cream shop business is sustainable year round. The temperature data that will be analyzed from the months of June and December in Oahu so set a shop there.
 
 ## Results
 
@@ -20,7 +18,7 @@ Theses values determine the profitability of opening a surf and ice-cream shop a
 
 ## Summary
 
-From the table above it can be seen that Average Temperatures observed for both months do not differ significantly. It would be safe to say that a Surf and Ice-Cream shop will be profitable all year round with just this information but then other factors apart from Temperature have to be taken into account.
+From above, you can tell that the Average Temperatures observed for both months does not change a lot. It is well assured that the Surf and Ice-Cream shop will be profitable all year round with just this Analysis, but there are other factors that will be needed before setting a shop.
 
 The table below looks at the Precipitation for both months.
 
