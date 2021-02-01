@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to find out the temperature trends before opening a surf shop and to find out if a surf and ice-cream shop business is sustainable year round. 
+This Analysis looks into the temperature trends before opening a surf shop and to find out if a surf and ice-cream shop business is sustainable year round. 
 
 The temperature data to be analyzed will be data from the months of June and December in Oahu.
 
